@@ -2,7 +2,7 @@
 :page-layout: blog
 :page-author: robstryker
 :page-tags: [jbosstools, devstudio, server, wildfly]
-
+:experimental:
 
 menu:Window[Preferences > JBoss Tools > JBoss Runtime Detection]
 
