@@ -14,7 +14,7 @@ There are two primary pieces to the TCP/IP Monitor. First, there's a preference 
 
 === The Preference Page
 
-To see the preference page for port monitoring, you'll want to go to menu:Window[Preferences > RunDebug > TCPIP Monitor].   You'll see the page depicted below. 
+To see the preference page for port monitoring, you'll want to go to menu:Window[Preferences > RunDebug > TCPIP Monitor].  menu:Window[Preferences > RunDebug > TCPIP Monitor] menu:Window[Preferences > JBoss Tools > JBoss Runtime Detection] You'll see the page depicted below. 
 
 image::/blog/images/20150521-monitoring-pref-page.png[]
 
